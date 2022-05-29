@@ -1,5 +1,5 @@
 # Anton Shilovich                                          
-![image](https://user-images.githubusercontent.com/104858633/170878362-f62aeb7f-7d43-4daa-a8a4-fbbff0f844db.png" ")
+![image](https://user-images.githubusercontent.com/104858633/170878362-f62aeb7f-7d43-4daa-a8a4-fbbff0f844db.png"")
 # Contacts for communication
 * Location: Minsk, Belarus
 * Phone:+375255245318
