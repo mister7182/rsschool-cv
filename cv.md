@@ -23,7 +23,7 @@ function even_or_odd(number) {
 };
 ```
 # Work experience
-[cv for RS Scool](https://github.com/mister7182/rsschool-cv/edit/gh-pages/cv.md)
+[CV for RS Scool](https://github.com/mister7182/rsschool-cv/edit/gh-pages/cv.md)
 # Education
 * University: Belarusian National Technical University, mining engineer-electrician.
 * Courses: 
