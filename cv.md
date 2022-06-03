@@ -1,7 +1,7 @@
 # Anton Shilovich                                          
 ![image](https://avatars.githubusercontent.com/u/104858633?v=4"")
 # Contacts for communication
-* Location: Minsk, Belarus
+* Location:Minsk, Belarus
 * Phone:+375255245318
 * Email: Shilovis76@gmail.com
 * GitHub:[mister7182](https://github.com/mister7182)
