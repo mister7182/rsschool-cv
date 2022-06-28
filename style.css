@@ -1,0 +1,255 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+   width: 1440px;
+   height:90px;
+   background-color: rgba(242, 120, 92, 0.7);
+   display: block;
+}
+.logohead{
+    width: 216px;
+height: 31px;
+margin-top: 25px;
+margin-left: 120px;
+}
+.navi{
+max-width:527px;
+max-height: 21px;
+margin-left: 494px;
+margin-right: 419px;
+margin-bottom: 34px;
+}
+.list{
+    display: flex;
+    list-style-type: none;
+margin:0;
+padding: 0;
+}
+.link{
+    font-weight: 500;
+    color: white;
+    display: flex;
+    font-size: 16px;
+    line-height: 21.17px;
+    text-decoration: none;
+    
+    margin-right: 42px;
+    font-family: 'Red Hat Text', sans-serif;
+}
+.intro{
+    background: url(/travel/garrett-parker-DlkF4-dbCOU-unsplash\ 1.svg);
+    width: 1440px;
+    height: 765px;
+}
+.sectionintro{
+    width: 892px;
+    height: 422px;
+    margin-left: 120px;
+    margin-bottom: 254px;
+    margin-right: 428px ;
+}
+.explore{
+    font-family: 'Aleo', serif;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 96px;
+    color:white;
+    
+}
+.receive{
+    font-family: 'Aleo';
+    font-weight: 700;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 24px;
+    color:white;
+    top: 346px;
+    position: absolute;
+}
+.input{
+    width: 892px;
+    height: 95px;
+    border-radius: 16px;
+    background-color: rgba(255, 255, 255, 0.7);
+    top: 416px;
+    position: absolute;
+}
+.what{
+    font-family: 'Aleo';
+    font-size: 24px;
+    font-style: italic;
+    line-height: 29px;
+    color: #F2785C;
+    vertical-align: top;
+}
+.frame {
+    width: 228px;
+    height: 59px;
+    border-radius: 10px;
+    background-color: #0D606F;
+    position: absolute;
+   top:18px;
+   left: 646px;
+}
+.start{
+    margin-left: 32.5px;
+    margin-top: 13.5px;
+    color: white;
+    font-family: 'Red Hat Text', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31.75px;
+
+}
+.steps{
+    font-family: 'Red Hat Text';
+    font-style: medium;
+    font-size: 40px;
+    line-height: 53px;
+    color: #F2785C;
+    vertical-align: top;
+    padding-top: 80px;
+    padding-left: 414px;
+    width: 611px;
+    height: 53px;
+}
+.img{
+    width: 100px;
+    height: 100px;
+    background-color: #F2785C;
+    border-radius: 16px;
+    margin-top: 173px;
+    margin-left: 73px;
+    
+}
+.img1{
+    width: 50px;
+    height: 45px;
+    margin: 25px;
+}
+.frame1{
+    width: 247px;
+    height: 154px;
+    font-family: 'Aleo';
+    font-size: 20px;
+    color: #0D606F;
+    padding-left: 204px;
+    
+}
+.img11{
+    width: 100px;
+    height: 100px;
+    background-color: #F2785C;
+    border-radius: 16px;;
+    margin-left: 73px;
+    
+}
+.img2{
+    width: 50px;
+    height: 45px;
+    margin: 25px;
+}
+.frame2{
+    width: 222px;
+    height: 154px;
+    font-family: 'Aleo';
+    font-size: 20px;
+    color: #0D606F;
+padding-left: 670px;
+margin-top: -170px;
+text-align: center;
+    
+}
+.frame27{
+    height: 154px;
+    margin-top: 173px;
+
+     
+}
+.img13{
+    width: 100px;
+    height: 100px;
+    background-color: #F2785C;
+    border-radius: 16px;;
+    margin-left: 73px;
+    
+}
+.img3{
+    width: 50px;
+    height: 45px;
+    margin: 25px;
+}
+.frame3{
+    width: 222px;
+    height: 154px;
+    font-family: 'Aleo';
+    font-size: 20px;
+    color: #0D606F;
+padding-left: 1100px;
+margin-top: -170px;
+text-align: center;
+    
+}
+.popular{
+    margin-top: 97px;
+    margin-left: 470px;
+    font-family: 'Red Hat Text';
+    font-weight: 500px;
+    font-size: 40px;
+    color: #F2785C;
+    line-height: 53px;
+}
+.Rectangle{
+    width: 800px;
+    height: 800px;
+    margin-top: 46px;
+    border-radius: 16px;
+    padding-left: 320px;
+}
+.Rectangle1{
+    width: 800px;
+    height: 800px;
+    margin-top: 46px;
+margin-left: 60px;
+    border-radius: 16px;
+    position: absolute;
+    
+}
+.Rectangle2{
+    width: 800px;
+    height: 800px;
+    margin-top: 46px;
+margin-left: -540px;
+    border-radius: 16px;
+}
+.frame6{
+    width: 80px;
+    height: 20px;
+    margin-top: 24px;
+    margin-left: 681px;
+    display: flex;
+    margin-right: 10px;
+}
+.frame4{
+    width: 228px;
+    height: 59px;
+    background-color: #0D606F;
+    border-radius: 10px;
+    margin-left: 607px;
+    margin-top: 40px;
+}
+.vector5{
+    margin-top: 18.25px;
+    margin-left: 33.5px;
+}
+.fin{
+    font-family: 'Red Hat Text';
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32px;
+    color: white; 
+    padding-left: 81px;
+    
+}
