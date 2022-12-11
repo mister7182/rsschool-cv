@@ -11,6 +11,7 @@ I am 20 years old, I am a 3rd year student of the Belarusian National Technical 
 # Skills
 - HTML
 - Git
+- js
 # Code example
 ```
 function even_or_odd(number) {
